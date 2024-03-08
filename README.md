@@ -2,11 +2,6 @@
 
 README
 
-Project Title: ML for Sustainability: Satellite Data Processing for Detecting Pollution Sources
-
-Problem Statement:
-Air pollution, particularly from brick kilns, poses a significant threat to public health worldwide. Conventional methods of monitoring brick kilns are expensive and time-consuming. This project aims to revolutionize kiln monitoring by implementing computer vision and machine learning models to efficiently detect brick kilns using low-label satellite imagery. By doing so, the project contributes to effective pollution control and public health preservation.
-
 Code Overview:
 The provided code implements various aspects of the project, including dataset preparation, model development, training, evaluation, and visualization. Here's an overview of each section:
 
